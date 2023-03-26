@@ -1,6 +1,7 @@
 local games = {
     [{738339342}] = "https://raw.githubusercontent.com/ImMejor35/Flood-GUI/main/Flood%20GUI%20v3",
     [{5876616139}] = "https://raw.githubusercontent.com/ShizzA4/Patched/main/Script.lua",
+    [{855499080}] = "https://pastebin.com/raw/mT10xnt7",
 }
 
 for ids, url in next, games do
